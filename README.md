@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
+ 
+*Currently working on this section*
 
 <!--
 **zaphkieled/zaphkieled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
