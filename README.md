@@ -1,5 +1,6 @@
 <h1 align="center"> Bonjour there, I'm Emilio 👋 </h1>
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
+<img src="https://github.com/emideminerva/emideminerva/blob/main/bar.png?raw=true">
+
 
 ### A bit about me
 - I'm a physics undergrad 🧙‍♂️.
